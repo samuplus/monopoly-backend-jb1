@@ -4,6 +4,8 @@ import com.monopoly.game.model.Player;
 import com.monopoly.game.service.PlayerService;
 import java.util.List;
 import java.util.Map;
+import javax.validation.Valid;
+import javax.validation.constraints.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -34,7 +36,7 @@ public class PlayerController {
 
   @PostMapping(consumes = MediaType.APPLICATION_JSON_VALUE)
   @ResponseStatus(value = HttpStatus.CREATED)
-  public Player createNewPlayer(@RequestBody Player player) {
+  public Player createNewPlayer(@Valid @RequestBody Player player) {
     return playerService.createNewPlayer(player);
   }
 

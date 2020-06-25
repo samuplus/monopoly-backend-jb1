@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="787ceb8f-4073-4951-8885-de011861166a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/monopoly/game/controller/PlayerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/monopoly/game/controller/PlayerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/monopoly/game/model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/monopoly/game/model/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/monopoly/game/service/PlayerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/monopoly/game/service/PlayerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/monopoly/game/GameApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/monopoly/game/GameApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/monopoly/game/controller/PlayerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/monopoly/game/controller/PlayerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/monopoly/game/model/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/monopoly/game/model/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/monopoly/game/repository/PlayerRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/monopoly/game/repository/PlayerRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/monopoly/game/service/PlayerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/monopoly/game/service/PlayerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/monopoly/game/util/QueryConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/monopoly/game/util/QueryConstants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/monopoly/game/GameApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/monopoly/game/GameApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dmbRSpknuH0NFQ69sEwYoAfmNO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.monopoly.game.GameApplication" />
+      <module name="game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.monopoly.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="787ceb8f-4073-4951-8885-de011861166a" name="Default Changelist" comment="" />
+      <created>1593033206878</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593033206878</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="18" key="#com.intellij.ide.util.MemberChooser" timestamp="1593034787001">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="18" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1593034787001" />
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom" timestamp="1593035409909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593035409909" />
+    <state width="1237" height="203" key="GridCell.Tab.0.center" timestamp="1593035409909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593035409909" />
+    <state width="1237" height="203" key="GridCell.Tab.0.left" timestamp="1593035409909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593035409909" />
+    <state width="1237" height="203" key="GridCell.Tab.0.right" timestamp="1593035409909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="203" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593035409909" />
+  </component>
+</project>

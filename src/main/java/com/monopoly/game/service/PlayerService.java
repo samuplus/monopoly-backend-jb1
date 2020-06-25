@@ -30,6 +30,8 @@ public class PlayerService {
 
 
   public Player createNewPlayer(Player player){
+    player.setPlayerBoardPosition(0L);
+    player.setPlayerBalance(0L);
     return playerRepository.save(player);
   }
 
